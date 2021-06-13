@@ -14,8 +14,8 @@
 <th>Unity</th><th>DirectX</th>
 </tr>
 <tr>
-<th><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/unity.png"/></th>
-<th><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/directx.png"/></th>
+<th style="background: white;"><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/unity.png"/></th>
+<th style="background: white;"><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/directx.png"/></th>
 </tr>
 <tr>
 <th><a href="https://github.com/NameLoki/ROBO_RETURN_VR">Robo return</a></th>
@@ -33,10 +33,10 @@
 <th>Winform</th><th>Wpf</th><th>Flutter</th><th>React.js</th>
 </tr>
 <tr>
-<th><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/winform.png"/></th>
-<th><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/wpf.png"/></th>
-<th><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/flutter.png"/></th>
-<th><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/react.png"/></th>
+<th style="background: white;"><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/winform.png"/></th>
+<th style="background: white;"><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/wpf.png"/></th>
+<th style="background: white;"><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/flutter.png"/></th>
+<th style="background: white;"><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/react.png"/></th>
 </tr>
 <tr>
 <th>
@@ -66,9 +66,9 @@
 <th>Django</th><th>Flask</th><th>Node.js</th>
 </tr>
 <tr>
-<th><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/django.png"/></th>
-<th><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/flask.png"/></th>
-<th><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/nodejs.png"/></th>
+<th style="background: white;"><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/django.png"/></th>
+<th style="background: white;"><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/flask.png"/></th>
+<th style="background: white;"><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/nodejs.png"/></th>
 </tr>
 <tr>
 <th>
@@ -85,10 +85,10 @@
 <th>Firebase</th><th>MariaDB</th><th>Oracle 11g</th><th>PL/SQL</th>
 </tr>
 <tr>
-<th><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/firebase.png"/></th>
-<th><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/mariadb.png"/></th>
-<th><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/11g.png"/></th>
-<th><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/plslq.png"/></th>
+<th style="background: white;"><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/firebase.png"/></th>
+<th style="background: white;"><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/mariadb.png"/></th>
+<th style="background: white;"><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/11g.png"/></th>
+<th style="background: white;"><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/plslq.png"/></th>
 </tr>
 <tr>
 <th>
@@ -106,9 +106,9 @@
 <th>REST API</th><th>GraphQL</th><th>Socket.IO</th>
 </tr>
 <tr>
-<th><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/rest.png"/></th>
-<th><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/graphql.png"/></th>
-<th><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/socketio.png"/></th>
+<th style="background: white;"><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/rest.png"/></th>
+<th style="background: white;"><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/graphql.png"/></th>
+<th style="background: white;"><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/socketio.png"/></th>
 </tr>
 <tr>
 <th>
@@ -130,8 +130,8 @@
 <th>Python</th><th>C++17(MSVC)</th>
 </tr>
 <tr>
-<th><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/python.png"/></th>
-<th><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/visualstudio.png"/></th>
+<th style="background: white;"><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/python.png"/></th>
+<th style="background: white;"><img src="https://raw.githubusercontent.com/apple01644/apple01644/main/visualstudio.png"/></th>
 </tr>
 </table>
 
